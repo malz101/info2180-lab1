@@ -1,2 +1,2 @@
-# info2180-lab1
-Introduction to Web Developemt lab 1 files
+# INFO2180 Lab 1
+This is Lab 1 for Malik Edwards
